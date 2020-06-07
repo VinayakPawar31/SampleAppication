@@ -1,0 +1,5 @@
+c:\users\vinayak\documents\visual studio 2010\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.exe
+c:\users\vinayak\documents\visual studio 2010\Projects\PromotionEngine\PromotionEngine\bin\Debug\PromotionEngine.pdb
+c:\users\vinayak\documents\visual studio 2010\Projects\PromotionEngine\PromotionEngine\obj\x86\Debug\PromotionEngine.exe
+c:\users\vinayak\documents\visual studio 2010\Projects\PromotionEngine\PromotionEngine\obj\x86\Debug\PromotionEngine.pdb
+c:\users\vinayak\documents\visual studio 2010\Projects\PromotionEngine\PromotionEngine\obj\x86\Debug\PromotionEngine.csprojResolveAssemblyReference.cache
